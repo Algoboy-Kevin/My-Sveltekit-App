@@ -1,0 +1,1 @@
+<label for="my-drawer-2" class="btn btn-primary drawer-button lg:hidden">Open drawer</label>
